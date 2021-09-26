@@ -28,11 +28,11 @@ $linguagens = array("PHP","C#","C++","VB.NET");
 
 ## **Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/JpDevs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpdevs&theme=default&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/JpDevs">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpdevs&show_icons=true&theme=default&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
