@@ -15,7 +15,7 @@
 function JpDevs() {
 $nome = "João Pedro";
 $area = "Programação Back-End";
-$linguagens = array("PHP","C#","C++","VB.NET");
+$linguagens = ["PHP","C#","C++","VB.NET"];
 }
 ```
 
