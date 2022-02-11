@@ -1,7 +1,7 @@
 
 
 
-### <img align="center" width="40" src="https://github.com/iuricode/recursos-gratuitos/blob/master/flags/br.jpg?raw=true"/> Hello World!
+### <Hello World!/>
 
 ✌ Olá, me chamo João Pedro (alias JpDevs)
 
