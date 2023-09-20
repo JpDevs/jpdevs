@@ -12,7 +12,7 @@
 <img align="right" width="300" src="https://c.tenor.com/9ItR8nSuxE0AAAAM/thumbs-up-computer.gif" />
 
 ```php
- public function JpDevs()
+ public function JoaoPedro()
     {
         $age = 19;
         $stack = "back-end";
