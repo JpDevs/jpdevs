@@ -16,7 +16,7 @@
     {
         $age = 19;
         $stack = "back-end";
-        $technologys = ["PHP", "Laravel", "Node.JS", "MySql", "VB.NET"];
+        $technologies = ["PHP", "Laravel", "Node.JS", "MySql", "VB.NET"];
 
         while ($this->alive()) {
             $this->eat();
