@@ -12,11 +12,23 @@
 <img align="right" width="300" src="https://c.tenor.com/9ItR8nSuxE0AAAAM/thumbs-up-computer.gif" />
 
 ```php
-function JpDevs() {
-$nome = "João Pedro";
-$area = "Programação Back-End";
-$linguagens = ["PHP","C#","C++","VB.NET"];
-}
+ public function JpDevs()
+    {
+        $age = 19;
+        $stack = "back-end";
+        $technologys = ["PHP", "Laravel", "Node.JS", "MySql", "VB.NET"];
+
+        while ($this->alive()) {
+            $this->eat();
+            $this->coffee(); //sleep();
+            $this->code();
+            $this->repeat();
+        }
+        if(!$this->success()) {
+            return $this->tryAgain();
+        }
+        return $this->success();
+    }
 ```
 
 ## **Skills:**  
