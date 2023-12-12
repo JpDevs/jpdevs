@@ -12,23 +12,30 @@
 <img align="right" width="300" src="https://c.tenor.com/9ItR8nSuxE0AAAAM/thumbs-up-computer.gif" />
 
 ```php
- public function JoaoPedro()
-    {
-        $age = 19;
-        $stack = "back-end";
-        $technologies = ["PHP", "Laravel", "Node.JS", "MySql", "JavaScript", "VB.Net"];
+public function JoaoPedro()
+{
+    $age = 19;
+    $stack = "back-end";
+    $technologies = [
+        "PHP",
+        "Laravel",
+        "Node.JS",
+        "MySql",
+        "JavaScript",
+        "VB.Net"
+    ];
 
-        while ($this->alive()) {
-            $this->eat();
-            $this->coffee(); //sleep();
-            $this->code();
-            $this->repeat();
-        }
-        if(!$this->success()) {
-            return $this->tryAgain();
-        }
-        return $this->success();
+    while ($this->alive()) {
+        $this->eat();
+        $this->coffee(); //sleep();
+        $this->code();
+        $this->repeat();
     }
+    if (!$this->success()) {
+        return $this->tryAgain();
+    }
+    return $this->success();
+}
 ```
 
 
