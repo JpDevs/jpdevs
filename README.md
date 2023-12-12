@@ -53,5 +53,5 @@ public function JoaoPedro()
 ### Contato:
 
 [![Linkedin: JpDevs](https://img.shields.io/badge/-JpDevs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com.br/in/jpdevs)](https://linkedin.com.br/in/jpdevs)
-[![Gmail Badge](https://img.shields.io/badge/-contato@jpdevs.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@jpdevs.com.br)](mailto:contato@jpdevs.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-joaopedro@jpdevs.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedro@jpdevs.com.br)](mailto:joaopedro@jpdevs.com.br)
 [![GitHub JpDevs]( https://img.shields.io/github/followers/JpDevs?label=follow&style=social)](https://github.com/JpDevs/)
