@@ -5,7 +5,7 @@
 
 ✌ Olá, me chamo João Pedro (alias JpDevs)
 
-😉 Sou um estudante apaixonado pela arte da computação, comecei meus estudos em programação aos 7 anos de idade, e sigo até hoje focado em aprender cada vez mais e melhorar minha base de conhecimento. Minha linguagem de programação favorita atualmente é o PHP, a mais utilizada em meus projetos.
+😉 Apaixonado pela arte da computação, comecei meus estudos em programação aos 7 anos de idade, e sigo até hoje focado em aprender cada vez mais e melhorar minha base de conhecimento. Minha linguagem de programação favorita atualmente é o PHP, a mais utilizada em meus projetos.
 
 ## <img src="https://img.shields.io/static/v1?label=Overview&message=JpDevs&color=f8efd4&style=flat&logo=GitHub"> Sobre mim
 
@@ -16,7 +16,7 @@
     {
         $age = 19;
         $stack = "back-end";
-        $technologies = ["PHP", "Laravel", "Node.JS", "MySql", "VB.NET"];
+        $technologies = ["PHP", "Laravel", "Node.JS", "MySql", "JavaScript", "VB.Net"];
 
         while ($this->alive()) {
             $this->eat();
