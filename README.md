@@ -1,12 +1,14 @@
+
+
 ### <Hello World!/>
 
-✌ Hello, I'm João Pedro (aka JpDevs)
+✌  Olá, me chamo João Pedro (alias JpDevs)
 
-😉 Passionate about computing, I began programming at the age of 7 and have since focused on continuously learning and improving my knowledge. My current favorite programming language is PHP, which I primarily use in my projects.
+😉  Apaixonado pela arte da computação, comecei meus estudos em programação aos 7 anos de idade, e sigo até hoje focado em aprender cada vez mais e melhorar minha base de conhecimento. Minha linguagem de programação favorita atualmente é o PHP, a mais utilizada em meus projetos.
 
-## <img src="https://img.shields.io/static/v1?label=Overview&message=JpDevs&color=f8efd4&style=flat&logo=GitHub"> About Me
+<img width="300" src="https://c.tenor.com/9ItR8nSuxE0AAAAM/thumbs-up-computer.gif"/>
 
-<img align="right" width="300" src="https://c.tenor.com/9ItR8nSuxE0AAAAM/thumbs-up-computer.gif" />
+## <img src="https://img.shields.io/static/v1?label=Overview&message=JpDevs&color=f8efd4&style=flat&logo=GitHub"> Sobre mim
 
 ```php
 public function JoaoPedro()
