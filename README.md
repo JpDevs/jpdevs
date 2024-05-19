@@ -1,78 +1,54 @@
 ### <Hello World!/>
 
-<div class="container">
-  <div class="content">
-    <p>✌ Olá, me chamo João Pedro (alias JpDevs)</p>
-    <p>😉 Apaixonado pela arte da computação, comecei meus estudos em programação aos 7 anos de idade, e sigo até hoje focado em aprender cada vez mais e melhorar minha base de conhecimento. Minha linguagem de programação favorita atualmente é o PHP, a mais utilizada em meus projetos.</p>
-  </div>
-  
-  <div class="content">
-    ## <img src="https://img.shields.io/static/v1?label=Overview&message=JpDevs&color=f8efd4&style=flat&logo=GitHub"> Sobre mim
-    <img align="right" width="300" src="https://c.tenor.com/9ItR8nSuxE0AAAAM/thumbs-up-computer.gif" />
-    
-    ```php
-    public function JoaoPedro()
-    {
-        $age = 20;
-        $stack = "back-end";
-        $technologies = [
-            "PHP",
-            "Laravel",
-            "Node.JS",
-            "MySql",
-            "JavaScript",
-            "VB.Net"
-        ];
+✌ Olá, me chamo João Pedro (alias JpDevs)
 
-        while ($this->alive()) {
-            $this->eat();
-            $this->coffee(); //sleep();
-            $this->code();
-            $this->repeat();
-        }
-        if (!$this->success()) {
-            return $this->tryAgain();
-        }
-        return $this->success();
+😉 Apaixonado pela arte da computação, comecei meus estudos em programação aos 7 anos de idade, e sigo até hoje focado em aprender cada vez mais e melhorar minha base de conhecimento. Minha linguagem de programação favorita atualmente é o PHP, a mais utilizada em meus projetos.
+
+## <img src="https://img.shields.io/static/v1?label=Overview&message=JpDevs&color=f8efd4&style=flat&logo=GitHub"> Sobre mim
+
+<img align="right" width="300" src="https://c.tenor.com/9ItR8nSuxE0AAAAM/thumbs-up-computer.gif" />
+
+```php
+public function JoaoPedro()
+{
+    $age = 20;
+    $stack = "back-end";
+    $technologies = [
+        "PHP",
+        "Laravel",
+        "Node.JS",
+        "MySql",
+        "JavaScript",
+        "VB.Net"
+    ];
+
+    while ($this->alive()) {
+        $this->eat();
+        $this->coffee(); //sleep();
+        $this->code();
+        $this->repeat();
     }
-    ```
-    
-  </div>
-
-
-  <div class="content">
-      
-    ## **Estatísticas**
-      
-    <a href="https://github.com/JpDevs">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpdevs&theme=default&hide_langs_below=1" />
-    </a>
-    
-
-    <a href="https://github.com/JpDevs">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpdevs&show_icons=true&theme=default&line_height=27" alt="**SEU NOME** github stats"/>
-    </a>
-    
-  </div>
-
-  <div class="content">
-      
-    ### Contato:
-    [![Linkedin: JpDevs](https://img.shields.io/badge/-JpDevs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com.br/in/jpdevs)](https://linkedin.com.br/in/jpdevs)
-    [![Gmail Badge](https://img.shields.io/badge/-joaopedro@jpdevs.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedro@jpdevs.com.br)](mailto:joaopedro@jpdevs.com.br)
-    [![GitHub JpDevs]( https://img.shields.io/github/followers/JpDevs?label=follow&style=social)](https://github.com/JpDevs/)
-    
-  </div>
-</div>
-
-<style>
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
+    if (!$this->success()) {
+        return $this->tryAgain();
+    }
+    return $this->success();
 }
+```
 
-.content {
-  margin-bottom: 20px;
-}
-</style>
+
+## **Estatísticas**
+
+<a href="https://github.com/JpDevs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpdevs&theme=default&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/JpDevs">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpdevs&show_icons=true&theme=default&line_height=27" alt="**SEU NOME** github stats"/>
+
+</a>
+
+### Contato:
+
+[![Linkedin: JpDevs](https://img.shields.io/badge/-JpDevs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com.br/in/jpdevs)](https://linkedin.com.br/in/jpdevs)
+[![Gmail Badge](https://img.shields.io/badge/-joaopedro@jpdevs.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedro@jpdevs.com.br)](mailto:joaopedro@jpdevs.com.br)
+[![GitHub JpDevs]( https://img.shields.io/github/followers/JpDevs?label=follow&style=social)](https://github.com/JpDevs/)
